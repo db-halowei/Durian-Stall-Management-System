@@ -1,1 +1,1 @@
-# Durian-Stall-Management-System
+# Durian Stall Management System
